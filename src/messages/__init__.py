@@ -1,0 +1,1 @@
+from .main_messages import MESSAGES, MESSAGES2, MESSAGES3
